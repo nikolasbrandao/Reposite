@@ -1,0 +1,51 @@
+body{
+	background-image: url(image.jpg);
+	font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+background: #2F4F4F;
+text-shadow: bold;
+}
+
+.active {
+background: #FFF;
+}
+
+.jumbotron{
+	background-image:url(verde1.jpg);
+}
+
+strong,p{
+	color: #2F4F4F;
+
+}
+
+
+.well{
+	margin-top: 3%;
+	background-image:url(quemsomos.jpg);
+	color: #2F4F4F;
+}
+
+img{
+	margin:0 auto;
+	width: 300px;
+	height: 300px;
+
+}
+
+footer{
+	background-color:  #2F4F4F;
+	float: fixed;
+	margin-top:2%;
+    width: 100%
+}
+
+footer p{
+	color: #FFF;
+	text-align: center;
+	margin-bottom: 0;
+
+
+}

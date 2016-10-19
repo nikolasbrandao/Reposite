@@ -1,0 +1,43 @@
+body{
+ background: #FF5F6D;
+    background: linear-gradient(to left, #FF5F6D, #FFC371);
+}
+main{
+    margin: auto;
+    margin-top: 4em;
+    width: 95%;
+}
+.transparente{
+    background-color: transparent;
+    border: none;
+}
+.titulo{
+    font-family: 'Pacifico',cursive;
+    font-size: 1.7em;
+}
+.infosnone{
+    display: none;
+}
+.barra-titulo{
+    border-radius: 20px;
+    padding: 3em;
+    color: white;
+    background-color: black;
+    opacity: 0.60;
+}
+#carousel-dicas{
+    padding-bottom: 10px;
+}
+.btn{
+  display: block;
+}
+.carousel-caption{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    opacity: 0.50;
+    padding-top: 0;
+}
+.img-modal{
+    margin-right: 8px;
+}

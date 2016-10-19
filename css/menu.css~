@@ -1,0 +1,29 @@
+nav {
+	background-color:#F96C5F;
+	float: left; 
+	color:#FFFEFD;
+	padding: 1.5em;
+}
+nav h1{
+	font-family: Ubuntu, sans-serif;
+	font-size: 200%;
+	padding-bottom: 0.5em;
+}
+nav ul li{
+	margin-bottom: 10px;
+	display: inline;	
+}
+nav a{
+	font-family: sans-serif;
+	text-decoration: none;
+	font-size: 125%;
+	color:#FFFEFD;
+	padding: 8px;
+	border-radius: 18px;
+	border-collapse: border-box;
+	transition: all 1s linear;	
+}
+nav a:hover{
+	background-color:#FFFFFF;
+	color: #F96C5F;
+}

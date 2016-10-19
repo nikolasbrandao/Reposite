@@ -1,0 +1,96 @@
+body {
+    font: 21px "Segoe UI", Arial, sans-serif;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    ;
+    background: #104E8B;
+}
+
+
+.menu li {
+    position: relative;
+    float: left;
+    padding: 0.3em;
+}
+
+.menu li a {
+    font-family: Arial, sans-serif, cursive;
+    color: #f1f1f1;
+    text-decoration: none;
+    padding: 9px 15px;
+    display: inline;
+    float: center;
+    font-size: 1em;
+}
+
+.menu li a:hover {
+    background: #333;
+    color: #fff;
+}
+
+.menu li ul {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    background-color: #fff;
+    display: none;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #104E8B;
+}
+
+.painel{
+margin-top: 5% ;
+
+}
+
+.principal {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label[for] {
+    display: inline-block;
+    margin: 10px;
+}
+
+.aplicacao {
+    width: 30%;
+    background: #C1CDCD;
+    padding: 15px;
+    float: right;
+    margin-right: 60px;
+}
+
+.agregacao {
+    width: 20%;
+    background: #C1CDCD;
+    padding: 15px;
+    float: left;
+}
+
+
+}
+.margem {
+    margin-bottom: 15px;
+}
+.rodape {
+    background: #104E8B;
+    width: 100%;
+    color: #f1f1f1;
+    float: fixed;
+    margin-top: 10%;
+    -webkit-box-shadow: 2px 0px 10px 2px #838B8B;
+    -moz-box-shadow: 2px 3px 10px 2px #838B8B;
+}

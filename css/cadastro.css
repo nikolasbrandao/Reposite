@@ -1,0 +1,62 @@
+body{
+	background-image: url(image.jpg);
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.container h2 {
+		color: #2F4F4F;
+}
+
+.navbar {
+background: #2F4F4F;
+text-shadow: bold;
+}
+
+.active {
+background: #FFF;
+}
+
+.jumbotron{
+	background-image:url(verde1.jpg);
+}
+
+strong,p{
+	color: #2F4F4F;
+}
+
+
+.controls{
+	padding: 2%;
+}
+
+.form-horizontal{
+
+	background: #2F4F4F;
+	padding: 2%;
+
+}
+
+.cad {
+	color:#F0FFFF;
+}
+
+.control-group{
+	
+	color:#F0FFFF;
+}
+
+footer{
+	background-color:  #2F4F4F;
+	float: fixed;
+	margin-top:2%;
+    width: 100%
+}
+
+footer p{
+	color: #FFF;
+	text-align: center;
+	margin-bottom: 0;
+
+
+}
